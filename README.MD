@@ -2,7 +2,7 @@
 Questo repository contiene un'applicazione che raccoglie dati sulle concentrazioni di CO2 nell'atmosfera, la temperatura globale, l'anomalia del ghiaccio marino nell'emisfero settentrionale e meridionale. I dati vengono raccolti da diverse fonti e combinati in un unico oggetto JSON.
 
 ## Oggetto JSON 🚀
-L'oggetto JSON prodotto finale contiene le seguenti proprietà:
+L'oggetto JSON prodotto contiene le seguenti proprietà:
 
 - CO2: un oggetto che contiene i seguenti valori:
   - ACTUAL: la concentrazione di CO2 attuale in parti per milione (ppm)
@@ -15,7 +15,7 @@ L'oggetto JSON prodotto finale contiene le seguenti proprietà:
 - SEAICE_SH_5_Day_Anomaly: l'anomalia del ghiaccio marino nell'emisfero meridionale in metri quadrati
 - TIMESTAMP: la data e l'ora in cui i dati sono stati raccolti in formato ISO 8601.
 
-il file json è raggiungibile [qui](https://raw.githubusercontent.com/enbifa/Dati_Climatici/main/data.json) ⬅️ ⬅️ ⬅️
+il file json è raggiungibile [qui](https://enbifa.github.io/Dati_Climatici/data.json) ⬅️ ⬅️ ⬅️ ed è aggiornato due volte al giorno (10 e 16 UTC)
 ## Risorse utilizzate
 Scripps Institution of Oceanography, CO2 Program: https://scripps.ucsd.edu/programs/co2
 
