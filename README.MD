@@ -15,7 +15,7 @@ L'oggetto JSON prodotto finale contiene le seguenti proprietà:
 - SEAICE_SH_5_Day_Anomaly: l'anomalia del ghiaccio marino nell'emisfero meridionale in metri quadrati
 - TIMESTAMP: la data e l'ora in cui i dati sono stati raccolti in formato ISO 8601.
 
-il file json è raggiungibile [qui](https://raw.githubusercontent.com/enbifa/Dati_Climatici/master/data.json) ⬅️ ⬅️ ⬅️
+il file json è raggiungibile [qui](https://raw.githubusercontent.com/enbifa/Dati_Climatici/main/data.json) ⬅️ ⬅️ ⬅️
 ## Risorse utilizzate
 Scripps Institution of Oceanography, CO2 Program: https://scripps.ucsd.edu/programs/co2
 
