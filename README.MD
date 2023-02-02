@@ -20,7 +20,7 @@ La colonna "TIMESTAMP" indica il timestamp associato ai dati, in formato ISO 860
 
 ## File CSV Temperatura Globale
 
-[Questo](https://enbifa.github.io/Dati_Climatici/TEMPedata.csv) file CSV contiene informazioni sulle temperature globali. Ogni riga contiene due colonne: GLOBALTEMPERATURE e TIMESTAMP.
+[Questo](https://enbifa.github.io/Dati_Climatici/TEMPdata.csv) file CSV contiene informazioni sulle temperature globali. Ogni riga contiene due colonne: GLOBALTEMPERATURE e TIMESTAMP.
 
 
 | GLOBALTEMPERATURE | TIMESTAMP |
@@ -61,7 +61,7 @@ L'oggetto JSON (Array con un solo elemento) prodotto contiene le seguenti propri
 
 👉 File CSV relativo alla concentrazione di CO2 [qui](https://enbifa.github.io/Dati_Climatici/CO2data.csv) 
 
-👉 File CSV relativo alla temperatura globale [qui](https://enbifa.github.io/Dati_Climatici/TEMPedata.csv) 
+👉 File CSV relativo alla temperatura globale [qui](https://enbifa.github.io/Dati_Climatici/TEMPdata.csv) 
 
 👉 File CSV relativo al ghiaccio marino [qui](https://enbifa.github.io/Dati_Climatici/SEAICEdata.csv) 
 
