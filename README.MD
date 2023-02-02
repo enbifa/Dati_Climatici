@@ -1,5 +1,47 @@
 
-Questo repository contiene un'applicazione che raccoglie dati sulle concentrazioni di CO2 nell'atmosfera, la temperatura globale, l'anomalia del ghiaccio marino nell'emisfero settentrionale e meridionale. I dati vengono raccolti da diverse fonti e combinati in un unico oggetto JSON.
+Questo repository contiene un'applicazione che raccoglie dati sulle concentrazioni di CO2 nell'atmosfera, la temperatura globale, l'anomalia del ghiaccio marino nell'emisfero settentrionale e meridionale. I dati vengono raccolti da diverse fonti, inseriti in tre file csv e combinati in un unico oggetto JSON.
+
+
+## File CSV CO2 
+
+[Questo](https://enbifa.github.io/Dati_Climatici/CO2data.csv)  file csv contiene i  dati che rappresentano la quantità di CO2 presente nell'atmosfera, confrontata con quella di un anno fa. 
+
+| ACTUAL | ONEYEARAGO | DIFFERENCE | TEXT | NOTE | TIMESTAMP |
+| ------ | --------- | ---------- | ---- | ---- | ----------|
+| 419.23 | 419.18    | 0.05       | ultimo dato 419.23 ppm (0.05 ppm in più di un anno fa) | | 2023-02-02T16:21:13.043Z |
+
+
+La colonna "ACTUAL" contiene l'ultimo dato conosciuto sulle emissioni.
+La colonna "ONEYEARAGO" contiene la quantità di un anno fa. 
+La colonna "DIFFERENCE" mostra la differenza tra i due valori. 
+La colonna "TEXT" fornisce una descrizione sintetica dei dati.
+La colonna "NOTE" è riservata per eventuali note o commenti. 
+La colonna "TIMESTAMP" indica il timestamp associato ai dati, in formato ISO 8601.
+
+## File CSV Temperatura Globale
+
+[Questo](https://enbifa.github.io/Dati_Climatici/TEMPedata.csv) file CSV contiene informazioni sulle temperature globali. Ogni riga contiene due colonne: GLOBALTEMPERATURE e TIMESTAMP.
+
+
+| GLOBALTEMPERATURE | TIMESTAMP |
+| ----------------- | --------- |
+| 0.56              | 2023-02-02T16:21:13.043Z |
+
+
+La colonna GLOBALTEMPERATURE indica la temperatura globale in gradi Celsius.
+La colonna TIMESTAMP indica il timestamp associato ai dati, in formato ISO 8601.
+
+## File CSV Ghiaccio Marino
+[Questo](https://enbifa.github.io/Dati_Climatici/SEAICEdata.csv) file CSV contiene i dati sull'anomalia dei ghiacci marini delle regioni settentrionali e meridionali e il timestamp associato.
+
+| SEAICE_NH_5_Day_Anomaly | SEAICE_SH_5_Day_Anomaly | TIMESTAMP            |
+|--------------------------|--------------------------|---------------------|
+| -1.262                  | 2.299                    | 2023-02-02T16:21:13.043Z |
+
+
+La colonna SEAICE_NH_5_Day_Anomaly indica l'anomalia dei ghiacci marini nella regione settentrionale, misurata in metri.
+La colonna SEAICE_SH_5_Day_Anomaly indica l'anomalia dei ghiacci marini nella regione meridionale, misurata in metri.
+La colonna TIMESTAMP indica il timestamp associato ai dati, in formato ISO 8601.
 
 ## Oggetto JSON 🚀
 L'oggetto JSON prodotto contiene le seguenti proprietà:
