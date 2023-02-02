@@ -18,7 +18,9 @@ L'oggetto JSON prodotto contiene le seguenti proprietà:
 ## File
 
 👉 File CSV relativo alla concentrazione di CO2 [qui](https://enbifa.github.io/Dati_Climatici/CO2data.csv) 
+
 👉 File CSV relativo alla temperatura globale [qui](https://enbifa.github.io/Dati_Climatici/TEMPedata.csv) 
+
 👉 File CSV relativo al ghiaccio marino [qui](https://enbifa.github.io/Dati_Climatici/SEAICEdata.csv) 
 
 👊 Il file json è raggiungibile [qui](https://enbifa.github.io/Dati_Climatici/data.json) 
