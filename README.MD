@@ -44,7 +44,7 @@ La colonna SEAICE_SH_5_Day_Anomaly indica l'anomalia dei ghiacci marini nella re
 La colonna TIMESTAMP indica il timestamp associato ai dati, in formato ISO 8601.
 
 ## Oggetto JSON 🚀
-L'oggetto JSON prodotto contiene le seguenti proprietà:
+L'oggetto JSON (Array con un solo elemento) prodotto contiene le seguenti proprietà:
 
 - CO2: un oggetto che contiene i seguenti valori:
   - ACTUAL: la concentrazione di CO2 attuale in parti per milione (ppm)
