@@ -1,1 +1,1 @@
-[{"CO2":{"ACTUAL":420.06,"ONEYEARAGO":418.37,"DIFFERENCE":1.69,"TEXT":"ultimo dato 420.06 ppm (1.69 ppm in più di un anno fa)","NOTE":""},"GLOBALTEMPERATURE":0.63,"SEAICE_NH_5_Day_Anomaly":-1.171,"SEAICE_SH_5_Day_Anomaly":2.121,"TIMESTAMP":"2023-02-07T16:27:33.858Z"}]
+[{"CO2":{"ACTUAL":419.3,"ONEYEARAGO":null,"DIFFERENCE":null,"TEXT":"ultimo dato 419.30 ppm (NaN ppm in più di un anno fa)","NOTE":""},"GLOBALTEMPERATURE":0.58,"SEAICE_NH_5_Day_Anomaly":-1.138,"SEAICE_SH_5_Day_Anomaly":2.093,"TIMESTAMP":"2023-02-08T08:15:06.727Z"}]
