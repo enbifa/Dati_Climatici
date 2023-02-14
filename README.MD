@@ -26,6 +26,8 @@ La colonna "TIMESTAMP" indica il timestamp associato ai dati, in formato ISO 860
 
 Il formato è il seguente
 
+|  | |  
+| ------ | --------- |
 | ACTUAL | 419.23 | 
 | ONEYEARAGO | 419.18    |
 
@@ -68,7 +70,8 @@ La colonna TIMESTAMP indica il timestamp associato ai dati, in formato ISO 8601.
 [Questo](https://enbifa.github.io/Dati_Climatici/Temp_Scarto_1.csv) file csv contiene i dati che rappresentano lo scarto della temperatura globale rispetto alla media nella giornata in corso.
 
 Il formato è il seguente
-
+|  | |  
+| ------ | --------- |
 | Oggi | 13.253 | 
 | Media | 12.754    |
 | Scarto | 0.68    |
