@@ -38,7 +38,7 @@ Il formato è il seguente
 Il formato è il seguente
 
 | Date | 2023 | 2022 | 
-| ------ | --------- |
+| ------ | --------- |--------- |
 | 01-24	| 419.73 | 419.26 | 
 
 ## File CSV CO2 con l'evoluzione della CO2 dal 1958
