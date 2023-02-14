@@ -67,6 +67,11 @@ La colonna TIMESTAMP indica il timestamp associato ai dati, in formato ISO 8601.
 
 ## File CSV Scarto della temperatura
 
+
+<img src="Temp_Scarto_1.png" width="600" height="400">
+
+
+
 [Questo](https://enbifa.github.io/Dati_Climatici/Temp_Scarto_1.csv) file csv contiene i dati che rappresentano lo scarto della temperatura globale rispetto alla media nella giornata in corso.
 
 Il formato è il seguente
