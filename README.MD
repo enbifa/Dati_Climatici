@@ -125,7 +125,7 @@ Il formato è il seguente
 
 Il formato è il seguente
 
-| Data | Giornaliero	| Mediana 1981-2010
+| Data | Giornaliero	| Mediana 1981-2010|
 | ----------------- | --------- |
 | 2022-12-31 | 17.401	| 20.911 |
 
