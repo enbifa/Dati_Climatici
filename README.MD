@@ -121,9 +121,7 @@ Il formato è il seguente
 
 ## File CSV Ghiaccio Marino - somma degli scarti dei due emisferi
 
-
-   <img src="SEAICE_graphic_1.png" width="600" height="400">
-
+<img src="SEAICE_graphic_1.png" width="600" height="400">
 
 
 [Questo](https://enbifa.github.io/Dati_Climatici/SEAICE_graphic_1.csv) file CSV contiene i dati della somma degli scarti dei due emisferi.
@@ -136,6 +134,9 @@ Il formato è il seguente
 
 
 ## File CSV Ghiaccio Marino - somma dato giornaliero e l'estensione mediana 
+
+<img src="SEAICE_graphic_2.png" width="600" height="400">
+
 [Questo](https://enbifa.github.io/Dati_Climatici/SEAICE_graphic_2.csv) file CSV contiene i dati della somma del dato giornaliero e l'estensione mediana tra il 1981.
 
 Il formato è il seguente
