@@ -78,6 +78,8 @@ Il formato è il seguente
 
 ## File CSV Evoluzione dello scarto della temperatura
 
+<img src="Temp_Scarto_2.png" width="600" height="400">
+
 [Questo](https://enbifa.github.io/Dati_Climatici/Temp_Scarto_2.csv) file csv contiene i dati che rappresentano l'evoluzione dello scarto dalla media globale nel corso dell'ultimo anno.
 
 Il formato è il seguente
