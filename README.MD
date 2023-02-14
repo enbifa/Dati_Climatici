@@ -33,6 +33,9 @@ Il formato è il seguente
 
 ## File CSV CO2 Media mobile degli ultimi sette giorni
 
+
+<img src="c02_MediaMobile.png" width="600" height="400">
+
 [Questo](https://enbifa.github.io/Dati_Climatici/c02_MediaMobile.csv) file csv contiene i  dati che rappresentano la media mobile degli ultimi sette giorni paragonata alla media mobile a sette giorni dello stesso periodo dell'anno precedente.
 
 Il formato è il seguente
@@ -42,6 +45,9 @@ Il formato è il seguente
 | 01-24	| 419.73 | 419.26 | 
 
 ## File CSV CO2 con l'evoluzione della CO2 dal 1958
+
+
+<img src="c02_Evolution.png" width="600" height="400">
 
 [Questo](https://enbifa.github.io/Dati_Climatici/c02_Evolution.csv) file csv contiene i dati che rappresentano l'evoluzione della CO2 dal 1958 ad oggi.
 
