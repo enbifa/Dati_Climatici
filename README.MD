@@ -121,7 +121,6 @@ Il formato è il seguente
 
 ## File CSV Ghiaccio Marino - somma degli scarti dei due emisferi
 
-[![ somma](https://www.datawrapper.de/_/8MRIq/)]([Link URL](https://www.datawrapper.de))
 
 [Questo](https://enbifa.github.io/Dati_Climatici/SEAICE_graphic_1.csv) file CSV contiene i dati della somma degli scarti dei due emisferi.
 
