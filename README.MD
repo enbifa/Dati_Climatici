@@ -105,7 +105,7 @@ La colonna TIMESTAMP indica il timestamp associato ai dati, in formato ISO 8601.
 |  | |  
 | ------ | --------- |
 | SEAICE_NH_5_Day_Anomaly | -1.262  | 
-| SEAICE_SH_5_Day_Anomaly | -1,171       |
+| SEAICE_SH_5_Day_Anomaly | -1,171  |
 
 
 ## File CSV Ghiaccio Marino - scarto della media artico/antartide
