@@ -33,7 +33,7 @@ Il formato è il seguente
 
 ## File CSV CO2 Media mobile degli ultimi sette giorni
 
-[Questo](https://enbifa.github.io/Dati_Climatici/co2data_MediaMobile.csv) file csv contiene i  dati che rappresentano la media mobile degli ultimi sette giorni paragonata alla media mobile a sette giorni dello stesso periodo dell'anno precedente.
+[Questo](https://enbifa.github.io/Dati_Climatici/c02_MediaMobile.csv) file csv contiene i  dati che rappresentano la media mobile degli ultimi sette giorni paragonata alla media mobile a sette giorni dello stesso periodo dell'anno precedente.
 
 Il formato è il seguente
 
