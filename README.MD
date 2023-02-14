@@ -98,6 +98,15 @@ La colonna SEAICE_NH_5_Day_Anomaly indica l'anomalia dei ghiacci marini nella re
 La colonna SEAICE_SH_5_Day_Anomaly indica l'anomalia dei ghiacci marini nella regione meridionale, misurata in metri.
 La colonna TIMESTAMP indica il timestamp associato ai dati, in formato ISO 8601.
 
+## File CSV Ghiaccio Marino n formato lineare
+[Questo](https://enbifa.github.io/Dati_Climatici/SEAICEdata_Linear.csv) file realizzato in modo lineare per DataWrapper secondo questo schema
+
+
+|  | |  
+| ------ | --------- |
+| SEAICE_NH_5_Day_Anomaly | -1.262  | 
+| SEAICE_SH_5_Day_Anomaly | 2.299       |
+
 
 ## File CSV Ghiaccio Marino - scarto della media artico/antartide
 [Questo](https://enbifa.github.io/Dati_Climatici/SEAICEdata_Linear.csv) file CSV contiene i dati sull'anomalia dei ghiacci marini delle regioni settentrionali e meridionali.
@@ -147,6 +156,8 @@ L'oggetto JSON (Array con un solo elemento) prodotto contiene le seguenti propri
 
 👉 File CSV relativo alla concentrazione di CO2 [qui](https://enbifa.github.io/Dati_Climatici/CO2data.csv) 
 
+👉 File CSV relativo alla concentrazione di CO2 in formato lineare [qui](https://enbifa.github.io/Dati_Climatici/CO2data_Linear.csv) 
+
 👉 File CSV CO2 Media mobile degli ultimi sette giorni [qui](https://enbifa.github.io/Dati_Climatici/CO2data_Linear.csv) 
 
 👉 File CSV CO2 con l'evoluzione della CO2 dal 1958 [qui](https://enbifa.github.io/Dati_Climatici/c02_Evolution.csv) 
@@ -155,13 +166,11 @@ L'oggetto JSON (Array con un solo elemento) prodotto contiene le seguenti propri
 
 👉 File CSV Scarto della temperatura [qui](https://enbifa.github.io/Dati_Climatici/Temp_Scarto_1.csv) 
 
-👉 File CSV Scarto della temperatura [qui](https://enbifa.github.io/Dati_Climatici/Temp_Scarto_1.csv) 
-
 👉 File CSV Evoluzione dello scarto della temperatura [qui](https://enbifa.github.io/Dati_Climatici/Temp_Scarto_2.csv) 
 
 👉 File CSV Ghiaccio Marino [qui](https://enbifa.github.io/Dati_Climatici/SEAICEdata.csv) 
 
-👉 File CSV Ghiaccio Marino [qui](https://enbifa.github.io/Dati_Climatici/SEAICEdata.csv) 
+👉 File CSV Ghiaccio Marino in formato lineare [qui](https://enbifa.github.io/Dati_Climatici/SEAICEdata_Linear.csv) 
 
 👉 File CSV Ghiaccio Marino - scarto della media artico/antartide [qui](https://enbifa.github.io/Dati_Climatici/SEAICEdata_Linear.csv) 
 
