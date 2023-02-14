@@ -116,7 +116,7 @@ Il formato è il seguente
 |  |  |
 | ----------------- | --------- |
 | SEAICE_NH_5_Day_Anomaly | -1.159 | 
-| SEAICE_SH_5_Day_Anomaly | 1.958    |
+| SEAICE_SH_5_Day_Anomaly | -1.171    |
 
 
 ## File CSV Ghiaccio Marino - somma degli scarti dei due emisferi
