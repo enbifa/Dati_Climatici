@@ -122,7 +122,7 @@ Il formato è il seguente
 ## File CSV Ghiaccio Marino - somma degli scarti dei due emisferi
 
 
-   <img src="media/SEAICE_graphic_1.png" width="600" height="400">
+   <img src="SEAICE_graphic_1.png" width="600" height="400">
 
 
 
