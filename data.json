@@ -1,1 +1,1 @@
-[{"CO2":{"oggiFormattato":420.31,"unannofaformattato":420.64,"DIFFERENCE":-0.33,"TEXT":"ultimo dato 420.31 ppm (0.33 ppm in meno di un anno fa)","NOTE":""},"GLOBALTEMPERATURE":0.65,"SEAICE_NH_5_Day_Anomaly":-1.119,"SEAICE_SH_5_Day_Anomaly":-1.093,"TIMESTAMP":"2023-02-24T12:18:52.838Z"}]
+[{"CO2":{"DIFFERENCE":-0.33,"TEXT":"ultimo dato 420.31 ppm (0.33 ppm in meno di un anno fa)","NOTE":"","24/2/2023":420.31,"24/2/2022":420.64},"GLOBALTEMPERATURE":0.65,"SEAICE_NH_5_Day_Anomaly":-1.119,"SEAICE_SH_5_Day_Anomaly":-1.093,"TIMESTAMP":"2023-02-24T12:27:28.335Z"}]
