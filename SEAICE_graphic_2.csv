@@ -1,4 +1,4 @@
-Data,Anomalia rispetto alla media,
+Data,Anomalia rispetto alla mediana,
 2023-01-01,-2.448,0
 2023-01-02,-2.430,0
 2023-01-03,-2.383,0
@@ -92,3 +92,4 @@ Data,Anomalia rispetto alla media,
 2023-04-01,-1.116,0
 2023-04-02,-1.093,0
 2023-04-03,-1.075,0
+2023-04-04,NaN,0
